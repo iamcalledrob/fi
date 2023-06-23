@@ -11,7 +11,7 @@ errors can be difficult because these errors can't be easily simulated.
 
 ## Usage
 
-Godoc [Godoc](http://pkg.go.dev/github.com/google/licensecheck)
+Godoc: http://pkg.go.dev/github.com/iamcalledrob/fi
 
 ### Interface
 Use `fi.File` in place of `*os.File` in internal APIs.
